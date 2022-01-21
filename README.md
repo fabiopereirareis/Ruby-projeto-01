@@ -21,4 +21,12 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* URL padrão do projeto - http://localhost:3000
+
+* Rodar projeto - docker-compose up
+
+* Parar projeto - docker-compose down
+
+* Reconstruir projeto - docker-compose up --build
+
+* Reconstrução completa do projeto - docker-compose run web bundle install
